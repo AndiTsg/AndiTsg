@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Andi-Ts
-- 👀 I’m interested in ...Creativity
-- 🌱 I’m currently learning ...Pythonn
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Andi
+- 👀 I’m interested in God knows what
+- 🌱 I’m currently learning Js among others
+- 💞️ I’m looking to collaborate on 3dweb
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 
 <!---
 Andi-Ts/Andi-Ts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
