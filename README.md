@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Andi
 - 👀 I’m interested in God knows what
-- 🌱 I’m currently learning Js among others
-- 💞️ I’m looking to collaborate on 3dweb
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Game development, JS among others
+- 💞️ I’m looking to collaborate on Game engines and related
+- 
   
 
 <!---
