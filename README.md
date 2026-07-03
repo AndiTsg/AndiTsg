@@ -2,7 +2,7 @@
 - 👀 I’m interested in God knows what
 - 🌱 I’m currently learning Game development, JS among others
 - 💞️ I’m looking to collaborate on Game engines and related
-- 
+  
   
 
 <!---
